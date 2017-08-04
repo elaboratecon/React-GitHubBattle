@@ -1,0 +1,15 @@
+
+## React: GitHub Battle ##
+
+This is a practice React application I coded, following along with an intense, 4-hour long video series by the talented TylerMcGinnis.
+
+This project covered React fundamentals such as routing, passing data via props, propTypes, and coding reusable modules.
+
+This project also taught me how to manage workflows using Webpack and how to call APIs using Axios. 
+
+I took it upon myself to improve the syntax using ES6, using Babel to transpile it down to ES5 for backwards compatibility.
+
+
+Tutorial URL: https://www.youtube.com/playlist?list=PLqrUy7kON1mc7U60YUaN3ZR9EHlh9fsDL
+
+Final Product: http://jasonpconover.com/ReactGithubBattle/
